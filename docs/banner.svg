@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Vinovim">
+<rect width="1200" height="300" rx="20" fill="#0C0A12"/>
+<rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="#fff" stroke-opacity=".07"/>
+<g transform="translate(96 82)"><rect width="136" height="136" rx="34" fill="#7C3AED"/><path d="M27 38 H54 L68 72 L82 38 H109 L79 103 H57 Z" fill="#fff" stroke="#fff" stroke-width="6" stroke-linejoin="round"/></g>
+<text x="274" y="166" font-family="Geist,Inter,Segoe UI,Arial,sans-serif" font-size="92" font-weight="600" letter-spacing="-4" fill="#F4F2F8">Vinovim</text>
+<text x="278" y="214" font-family="Geist,Inter,Segoe UI,Arial,sans-serif" font-size="28" fill="#A7A1B5">O bot de Discord que cuida do teu servidor</text>
+</svg>
